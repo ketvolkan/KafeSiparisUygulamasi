@@ -1,0 +1,12 @@
+C:\Users\Volkan\source\repos\kafeSiparisUygulaması\kafeSiparisUygulaması\bin\Debug\kafeSiparisUygulaması.exe.config
+C:\Users\Volkan\source\repos\kafeSiparisUygulaması\kafeSiparisUygulaması\bin\Debug\kafeSiparisUygulaması.exe
+C:\Users\Volkan\source\repos\kafeSiparisUygulaması\kafeSiparisUygulaması\bin\Debug\kafeSiparisUygulaması.pdb
+C:\Users\Volkan\source\repos\kafeSiparisUygulaması\kafeSiparisUygulaması\obj\Debug\kafeSiparisUygulaması.csprojAssemblyReference.cache
+C:\Users\Volkan\source\repos\kafeSiparisUygulaması\kafeSiparisUygulaması\obj\Debug\kafeSiparisUygulaması.Form1.resources
+C:\Users\Volkan\source\repos\kafeSiparisUygulaması\kafeSiparisUygulaması\obj\Debug\kafeSiparisUygulaması.Properties.Resources.resources
+C:\Users\Volkan\source\repos\kafeSiparisUygulaması\kafeSiparisUygulaması\obj\Debug\kafeSiparisUygulaması.csproj.GenerateResource.cache
+C:\Users\Volkan\source\repos\kafeSiparisUygulaması\kafeSiparisUygulaması\obj\Debug\kafeSiparisUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Volkan\source\repos\kafeSiparisUygulaması\kafeSiparisUygulaması\obj\Debug\kafeSiparisUygulaması.exe
+C:\Users\Volkan\source\repos\kafeSiparisUygulaması\kafeSiparisUygulaması\obj\Debug\kafeSiparisUygulaması.pdb
+C:\Users\Volkan\source\repos\kafeSiparisUygulaması\kafeSiparisUygulaması\obj\Debug\kafeSiparisUygulaması.masadurum.resources
+C:\Users\Volkan\source\repos\kafeSiparisUygulaması\kafeSiparisUygulaması\obj\Debug\kafeSiparisUygulaması.giris.resources
